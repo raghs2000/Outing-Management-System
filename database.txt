@@ -1,0 +1,32 @@
+Shaurya Jain
+514
+2
+No
+Paarth Agarwal
+477
+2
+No
+Anuman Goel
+492
+3
+Yes
+Raghav Saboo
+544
+5
+No
+Yatharth Gupta
+493
+-5
+yes
+Kanav Agarwal
+461
+0
+yes
+Amandeep Singh
+623
+0
+Yes
+Akshath
+400
+1
+No
